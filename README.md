@@ -6,6 +6,6 @@ I live in Wildwood, Missouri and I like to build things. I've got sites all over
 #### Other Things
 - 🔭 I’m building things, primarily using #Jekyll these days
 - 🌱 I’m currently building my smarthome
-- 📫 How to reach me: [@christoc](https://twitter.com/christoc) on Twitter
+- 📫 How to reach me: [@christoc](https://twitter.com/christoc) on Twitter (~~x~~)
 - ⚡ Fun fact: I collect hobbies.... 
 

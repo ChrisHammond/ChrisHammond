@@ -1,3 +1,4 @@
+![SpaceX Falcon 9 Launch February 2024](/GithubHeader.jpg)
 ### Hi there 👋 I am [Chris Hammond](https://www.chrishammond.com/)
 
 #### About Me
@@ -5,9 +6,10 @@ I live in Wildwood, Missouri and I like to build things. I've got sites all over
 
 #### Other Things
 - 🔭 I’m building things, primarily using #Jekyll these days
-- 🌱 I’m currently building my smarthome
+- 🌱 I’m currently working with AU
+- 📷 I am the photographyer behind [RainbowMarks Photography](https://rainbowmarks.com)
 - 📫 How to reach me: [@christoc](https://twitter.com/christoc) on Twitter (~~x~~)
-- ⚡ Fun fact: I collect hobbies.... 
+- ⚡ Fun fact: I collect domain names and hobbies.... 
 
 #### Past Things
 - DNN is how everything started for me. Okay, maybe not everything, but I am what I am because of that platform and all that it brought me, from technical knowledge, to friends.

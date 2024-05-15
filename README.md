@@ -1,5 +1,5 @@
 ![SpaceX Falcon 9 Launch February 2024](/GithubHeader.jpg)
-### Hi there 👋 I am [Chris Hammond](https://www.chrishammond.com/)
+### Hi there 👋 I am <a href="https://www.chrishammond.com" rel="me">Chris Hammond</a>
 
 #### About Me
 I live in Wildwood, Missouri and I like to build things. I've got sites all over the internet, but the best place to read more about me is likely [over on About Chris Hammond](https://www.chrishammond.com/about)

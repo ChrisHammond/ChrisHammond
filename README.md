@@ -5,10 +5,9 @@
 I live in Wildwood, Missouri and I like to build things. I've got sites all over the internet, but the best place to read more about me is likely [over on About Chris Hammond](https://www.chrishammond.com/about)
 
 #### Other Things
-- 🔭 I’m building things, primarily using #Jekyll these days
-- 🌱 I’m currently working with AU
-- 📷 I am the photographyer behind [RainbowMarks Photography](https://rainbowmarks.com)
-- 📫 How to reach me: [@christoc](https://twitter.com/christoc) on Twitter (~~x~~)
+- 🔭 I’m building things, primarily using #Astro ~~Jekyll~~ these days
+- 📷 I am the photographer behind [RainbowMarks Photography](https://rainbowmarks.com)
+- 📫 How to reach me: [@christoc](https://bsky.app/christoc) on BlueSky
 - ⚡ Fun fact: I collect domain names and hobbies.... 
 
 #### Past Things
@@ -17,6 +16,6 @@ I live in Wildwood, Missouri and I like to build things. I've got sites all over
 - Cars are still a big part, so not sure why I list them as PAST here. 
 
 #### Project/Site Links
-[Autocross Blog](https://www.autocrossblog.com/)
-[CollectorOfJack.com](https://collectorofjack.com)
-[BicycleTips.com](https://www.bicycletips.com)
+- [Autocross Blog](https://www.autocrossblog.com/)
+- [CollectorOfJack.com](https://collectorofjack.com)
+- [BicycleTips.com](https://www.bicycletips.com)

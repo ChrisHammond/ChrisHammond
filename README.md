@@ -18,4 +18,3 @@ I live in Wildwood, Missouri and I like to build things. I've got sites all over
 #### Project/Site Links
 - [Autocross Blog](https://www.autocrossblog.com/)
 - [CollectorOfJack.com](https://collectorofjack.com)
-- [BicycleTips.com](https://www.bicycletips.com)

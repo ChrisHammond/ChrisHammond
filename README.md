@@ -7,7 +7,7 @@ I live in Wildwood, Missouri and I like to build things. I've got sites all over
 #### Other Things
 - 🔭 I’m building things, primarily using #Astro ~~Jekyll~~ these days
 - 📷 I am the photographer behind [RainbowMarks Photography](https://rainbowmarks.com)
-- 📫 How to reach me: [@christoc](https://bsky.app/profile/christoc.bsky.social) on BlueSky
+- 📫 How to reach me: [@chrishammond.com](https://bsky.app/profile/chrishammond.com) on BlueSky
 - ⚡ Fun fact: I collect domain names and hobbies.... 
 
 #### Past Things
